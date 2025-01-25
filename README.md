@@ -3,7 +3,8 @@
 <img alt="Logo" src="https://i.ibb.co/JBt4pXn/logo.png" width="20%">
 </p>
 
-![download (1)](https://github.com/user-attachments/assets/2a4a9846-f359-4300-809a-f2d1a0357038)    ![download-removebg-preview](https://github.com/user-attachments/assets/6a8fd40f-5aa4-499d-a04d-dbcb270b1899)
+![download__1_-removebg-preview](https://github.com/user-attachments/assets/4d3f591a-f40d-4468-a70a-fea41aff20b0)
+   ![download-removebg-preview](https://github.com/user-attachments/assets/6a8fd40f-5aa4-499d-a04d-dbcb270b1899)
 
 
 
