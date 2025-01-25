@@ -9,7 +9,7 @@
 
 ### Multi-Cloud GPU Workflow Management Platform
 
-Run AI workloads anywhere with zero complexity. One line of Python, global GPUs, full control.
+A vendor-neutral, open-source multi-cloud GPU workflow management platform that integrates advanced workflow automation with GPU resource optimization to address ServiceNow limitations and multi-cloud challenges.
 
 <p align="center">
   <a href="https://github.com/beam-cloud/beta9/stargazers">
