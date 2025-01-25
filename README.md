@@ -95,7 +95,7 @@ You can run this install script on your VM to connect it to your cluster.
 Manage your distributed cross-region cluster using a centralized control plane.
 
 ```sh
-$ beta9 machine list
+$ 7rainbow   machine list
 
 | ID       | CPU     | Memory     | GPU     | Status     | Pool        |
 |----------|---------|------------|---------|------------|-------------|
@@ -104,9 +104,6 @@ $ beta9 machine list
 
 ```
 
-# Local Installation
-
-You can run Beta9 locally, or in an existing Kubernetes cluster using our [Helm chart](https://github.com/beam-cloud/beta9/tree/main/deploy/charts/beta9).
 
 ### Setting Up the Server
 
@@ -158,20 +155,4 @@ After you've setup the server and SDK, check out the SDK readme [here](sdk/READM
 ## Contributing
 
 We welcome contributions big or small. These are the most helpful things for us:
-
-- Submit a [feature request](https://github.com/beam-cloud/beta9/issues/new?assignees=&labels=&projects=&template=feature-request.md&title=) or [bug report](https://github.com/beam-cloud/beta9/issues/new?assignees=&labels=&projects=&template=bug-report.md&title=)
 - Open a PR with a new feature or improvement
-
-## Community & Support
-
-If you need support, you can reach out through any of these channels:
-
-- [Slack](https://join.slack.com/t/beam-cloud/shared_invite/zt-2f16bwiiq-oP8weCLWNrf_9lJZIDf0Fg) \(Chat live with maintainers and community members\)
-- [GitHub issues](https://github.com/beam-cloud/issues) \(Bug reports, feature requests, and anything roadmap related)
-- [Twitter](https://twitter.com/beam_cloud) \(Updates on releases and more)
-
-## Thanks to Our Contributors
-
-<a href="https://github.com/beam-cloud/beta9/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=beam-cloud/beta9" />
-</a>
