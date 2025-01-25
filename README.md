@@ -12,7 +12,7 @@
 A vendor-neutral, open-source multi-cloud GPU workflow management platform that integrates advanced workflow automation with GPU resource optimization to address ServiceNow limitations and multi-cloud challenges.
 
   <a href="#">
-    <img alt="Tests Passing" src="https://github.com/beam-cloud/beta9/actions/workflows/test.yml/badge.svg">
+    <img alt="Tests Passing" src="https://i.ibb.co/vkR5wTt/badge.png">
     
   </a>
 </p>
