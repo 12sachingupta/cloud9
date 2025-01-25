@@ -1,11 +1,13 @@
 <div align="center">
 <p align="center">
-<img alt="Logo" src="static/beam-logo.jpeg" width="20%">
+<img alt="Logo" src="https://i.ibb.co/JBt4pXn/logo.png" width="20%">
 </p>
+
+
 
 ---
 
-### AI Infrastructure for Developers
+### Multi-Cloud GPU Workflow Management Platform
 
 Run AI workloads anywhere with zero complexity. One line of Python, global GPUs, full control.
 
