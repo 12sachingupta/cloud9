@@ -41,7 +41,7 @@ Add an `endpoint` decorator to your code, and you'll get a load-balanced HTTP en
 You can also run long-running functions with `@function`, deploy task queues using `@task_queue`, and schedule jobs with `@schedule`:
 
 ```python
-from beta9 import endpoint
+from 7rainbow import endpoint
 
 
 # This will run on a remote A100-40 in your cluster
@@ -53,7 +53,7 @@ def square(i: int):
 Deploy with a single command:
 
 ```
-$ beta9 deploy app.py:square --name inference
+$ 7rainbow deploy app.py:square --name inference
 => Building image
 => Using cached image
 => Deployed 🎉
@@ -69,7 +69,7 @@ curl -X POST 'https://inference.beam.cloud/v1' \
 Connect any GPU to your cluster with one CLI command and a cURL.
 
 ```sh
-$ beta9 machine create --pool lambda-a100-40
+$ 7rainbow machine create --pool lambda-a100-40
 
 => Created machine with ID: '9541cbd2'. Use the following command to set up the node:
 
